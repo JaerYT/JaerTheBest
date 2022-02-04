@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://youtube.com/jaer1337">
-    <img src="  https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" 
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" 
     alt="jaer yt profile" height="30" width="30">
   </a>
   
