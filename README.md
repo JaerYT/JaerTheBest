@@ -2,17 +2,17 @@
 
 
 
-  <a href="https://t.me/JaerXD">
+  <a href="https://t.me/JaerXD" align="center">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" 
     alt="jaer telegram profile" height="30" width="30">
   </a>
 
-  <a href="https://youtube.com/jaer1337">
+  <a href="https://youtube.com/jaer1337" align="center">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" 
     alt="jaer yt profile" height="30" width="30">
   </a>
   
-  <a href="https://www.instagram.com/milan1337_/">
+  <a href="https://www.instagram.com/milan1337_/" align="center">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jaer Instagram Profile" height="30" width="30">
   </a>
 </p>
